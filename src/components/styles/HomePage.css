@@ -1,0 +1,43 @@
+
+
+.home-page {
+  background-color: #f8f9fa; 
+  text-align: center;
+  padding: 60px 0; 
+}
+
+.home-page h1 {
+  font-size: 3rem;
+  color: #343a40; 
+  margin-bottom: 20px;
+  font-weight: bold; 
+}
+
+.home-page p {
+  font-size: 1.25rem;
+  color: #6c757d; 
+  margin-bottom: 30px;
+}
+
+.home-page .btn-primary {
+  font-size: 1.25rem;
+  padding: 12px 24px; 
+  border-radius: 30px; 
+  background-color: #ff5722; 
+  border: none; 
+}
+
+.home-page .btn-primary:hover {
+  background-color: #e64a19; 
+}
+
+.home-page .pizza-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.home-page .container {
+  max-width: 1200px; 
+}

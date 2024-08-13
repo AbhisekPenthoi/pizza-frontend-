@@ -1,0 +1,52 @@
+/* src/styles.css */
+
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .navbar {
+    background-color: #343a40;
+  }
+  
+  .navbar-brand, .nav-link {
+    color: #ffffff;
+  }
+  
+  .navbar-brand:hover, .nav-link:hover {
+    color: #ffd700; /* Gold color */
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card img {
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  .btn-primary {
+    background-color: #ff6347; /* Tomato color */
+    border-color: #ff6347;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ff4500; /* OrangeRed color */
+    border-color: #ff4500;
+  }
+  
+  .footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
